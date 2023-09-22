@@ -1,0 +1,31 @@
+.h2q{
+    margin-left: 130px;
+    margin-right: 130px;
+    
+}
+.h2q h1{
+    text-align: center;
+    margin: 50px 0;
+}
+.h2x{
+    display: flex;
+}
+.h2x p{
+    max-width: 50%!important;
+}
+.h2x img{
+    width: 50%!important;
+    filter: none!important;
+    margin: 0 50px;
+}
+
+.btn-hero button{
+    border: solid 1px black;
+    width: 150px;
+    padding: 10px 0;
+    margin: 0 10px;
+    border-radius: 5px;
+}
+.btn-hero button:hover{
+    background-color: rgba(0, 0, 0, 0.493);
+}

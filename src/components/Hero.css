@@ -1,0 +1,33 @@
+.container-fluid{
+    margin: 0!important;
+    padding: 0!important;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1;
+    
+    
+}
+.container-item{
+    width: 100%;
+    height: 40vh;
+}
+.w-100{
+    filter: blur();
+}
+.Container-item {
+    position: relative;
+    background-color: transparent!important;
+  }
+  
+  .centered-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.5); /* Optional: Add a semi-transparent background */
+    color: white; /* Optional: Set the text color */
+    padding: 10px; /* Optional: Add padding to the text */
+    background-color: transparent!important;
+  }

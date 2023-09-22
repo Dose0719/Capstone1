@@ -1,0 +1,33 @@
+.Container-Reg{
+    margin-right: 150px;
+    margin-left: 150px;
+}
+.Formz{
+    display: block;
+    text-align: center;
+    
+}
+.formzdiv{
+    padding: 10px;
+}
+.formzdiv label{
+    width: 200px;
+    text-align: left;
+   
+}
+.formzdiv input{
+    width: 40%;
+    background-color: rgba(0, 0, 0, 0.137);
+    border: solid 1px ;
+}
+.Formz .com-btn{
+    background-color: red;
+    border: none;
+    width: 200px;
+    padding: 5px 0;
+    margin: 20px 0;
+    font-family: sans-serif;
+    font-weight: bold;
+    text-transform: uppercase;
+    
+}
